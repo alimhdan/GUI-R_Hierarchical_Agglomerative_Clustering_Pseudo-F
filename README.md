@@ -3,7 +3,7 @@ My undergraduate thesis (OFFICIALLY PATENTED by Kementerian Hukum dan HAM RI)
 
 Patent: https://e-hakcipta.dgip.go.id/index.php/c?code=NWIwYjVhOTIzNjZlZWViZDJlM2ZlNDdkNDY4NTFhNGUK
 
-Detil Project: 
+Detail GUI Project Result: 
 
 # Description
 GUI Maker
