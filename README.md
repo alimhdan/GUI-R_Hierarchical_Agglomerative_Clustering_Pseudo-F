@@ -3,7 +3,7 @@ My undergraduate thesis (OFFICIALLY PATENTED by Kementerian Hukum dan HAM RI)
 
 Patent: https://e-hakcipta.dgip.go.id/index.php/c?code=NWIwYjVhOTIzNjZlZWViZDJlM2ZlNDdkNDY4NTFhNGUK
 
-Detail GUI Project Result: 
+Detail GUI Project Result: https://medium.com/@alimhdan2/gui-r-hierarchical-agglomerative-clustering-with-pseudo-f-optimization-case-clustering-194b94564c98
 
 # Description
 GUI Maker
